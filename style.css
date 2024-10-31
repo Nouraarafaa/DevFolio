@@ -18,7 +18,7 @@ body {
 
 /* Background Styles */
 .bg {
-    background-image: url('../Images/hero-bg.jpg');
+    background-image: url('Images/hero-bg.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -224,7 +224,7 @@ a.navbar-brand {
 
 /* Stat Section */
 .stat {
-    background-image: url('../Images/post-3.jpg');
+    background-image: url('Images/post-3.jpg');
     height: 60vh;
     width: 100%;
     background-repeat: no-repeat;
@@ -328,7 +328,7 @@ a.navbar-brand {
 #carousel{
     height: 60vh;
     padding: var(--main-spacing);
-    background: url('../images/overlay-bg.jpg')#3d8ce1;
+    background: url('images/overlay-bg.jpg')#3d8ce1;
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
@@ -394,7 +394,7 @@ a.navbar-brand {
 .contact{
     height:fit-content;
     padding: var(--main-spacing);
-    background: url('../images/overlay-bg.jpg')#3d8ce1;
+    background: url('images/overlay-bg.jpg')#3d8ce1;
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
