@@ -328,7 +328,7 @@ a.navbar-brand {
 #carousel{
     height: 60vh;
     padding: var(--main-spacing);
-    background: url('images/overlay-bg.jpg')#3d8ce1;
+    background: url('Images/overlay-bg.jpg')#3d8ce1;
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
@@ -394,7 +394,7 @@ a.navbar-brand {
 .contact{
     height:fit-content;
     padding: var(--main-spacing);
-    background: url('images/overlay-bg.jpg')#3d8ce1;
+    background: url('Images/overlay-bg.jpg')#3d8ce1;
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
